@@ -1,6 +1,4 @@
-package hw3.puzzle;
-
-import java.util.LinkedList;
+package astar;
 
 public interface WorldState {
     /** Provides an estimate of the number of moves to reach the goal.

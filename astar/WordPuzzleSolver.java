@@ -1,4 +1,4 @@
-package hw3.puzzle;
+package astar;
 
 public class WordPuzzleSolver {
     /***********************************************************************

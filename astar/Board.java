@@ -1,4 +1,4 @@
-package hw3.puzzle;
+package astar;
 
 
 import java.util.LinkedList;
